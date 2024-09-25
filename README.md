@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science and Machine Learning.**
 - 👨‍💻 I’m passionate about solving problems and building AI-driven solutions.
 - 📫 How to reach me **mahadaniachinta12@gmail.com**
 
