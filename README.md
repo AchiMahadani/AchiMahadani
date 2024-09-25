@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href=" https://www.linkedin.com/in/achinta-mahadani-5324b8295/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/achinta-mahadani-5324b8295" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/achinta-mahadani-5324b8295/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Achinta Mahadani" height="30" width="40" />
   </a>
   <a href="https://github.com/achimahadani" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="achimahadani" height="30" width="40" />
