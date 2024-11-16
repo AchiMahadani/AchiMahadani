@@ -1,4 +1,4 @@
-# AchiMahadani
+# Achinta Mahadani
 
 <h1 align="center">Hey 👋, I'm Achinta Mahadani</h1>
 <h3 align="center">A passionate computer science student from India</h3>
