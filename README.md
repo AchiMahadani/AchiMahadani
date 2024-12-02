@@ -35,11 +35,13 @@
 
 ### 🛠️ Tools and Technologies:
 <p align="center">
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40" />
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40" />
+</a>
+
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -68,18 +70,11 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats:
-<div align="center">
-  <!-- GitHub Stats -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=achimahadani&show_icons=true&theme=radical" alt="Achinta Mahadani GitHub Stats" />
-  
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=radical" alt="GitHub Streak Stats" />
-</div>
+</p>
+
 
 ---
 
