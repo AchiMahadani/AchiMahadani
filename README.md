@@ -88,9 +88,10 @@
 
 ---
 
-### 📊 GitHub Daily Streak:
+
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchiMahadani)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchiMahadaniE&theme=dark)
+
 
 
 ---
