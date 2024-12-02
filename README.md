@@ -73,7 +73,7 @@
 ---
 
 ### 💻 Languages I Know:
-<p align="center">
+<p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -89,8 +89,8 @@
 ---
 
 ### 📊 GitHub Daily Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AchiMahadani&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=achimahadani&theme=dark)](https://git.io/streak-stats)
 
 ---
 
