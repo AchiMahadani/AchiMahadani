@@ -50,6 +50,7 @@
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
   </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
   </a>
@@ -73,13 +74,17 @@
 ---
 
 ### 💻Most Used Languages:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&show_icons=true&locale=en&layout=compact" alt="achimahadani" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&show_icons=true&locale=en&layout=compact" alt="achimahadani" />
+</p>
 
 ---
 
 
 ### Github Daily Streak:**
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=dark" alt="achimahadani" /></p>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=dark" alt="achimahadani" />
+</p>
 
 
 
