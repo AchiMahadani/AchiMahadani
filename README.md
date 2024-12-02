@@ -72,7 +72,7 @@
 
 ---
 
-### 💻 Languages I Know:
+### 💻Most Used Languages:
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -87,10 +87,10 @@
 </p>
 
 ---
-
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchiMahadaniE&theme=dark)
+### Github Daily Streak:
+<p align="left">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AchiMahadani"/></a>
+</p>
 
 
 
