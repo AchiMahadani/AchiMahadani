@@ -73,14 +73,14 @@
 
 ---
 
-### 💻 Most Used Languages:
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&show_icons=true&locale=en&layout=compact" alt="achimahadani" />
 </p>
 
 ---
 
-### Github Daily Streak:
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=dark" alt="achimahadani" />
 </p>
