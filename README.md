@@ -88,7 +88,8 @@
 
 ---
 ### Github Daily Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchiMahadani&hide_border=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=AchiMahadani&theme=dark&hide_border=true)
+
 
 
 
