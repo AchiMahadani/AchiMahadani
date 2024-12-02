@@ -45,6 +45,9 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -74,12 +77,15 @@
   </a>
 </p>
 
----
-
 <h3 align="left">📊 My GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&show_icons=true&locale=en&layout=compact" alt="achimahadani" /></p>
+<div align="center">
+  <!-- GitHub Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages by Achinta Mahadani" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=radical" alt="GitHub Streak by Achinta Mahadani" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&" alt="achimahadani" /></p>
 
 ---
 
