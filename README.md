@@ -22,7 +22,7 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/achinta-mahadani-5324b8295/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -88,9 +88,8 @@
 
 ---
 ### Github Daily Streak:
-<p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AchiMahadani"/></a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchiMahadani&hide_border=true&theme=dark)
+
 
 
 
