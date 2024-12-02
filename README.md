@@ -89,7 +89,7 @@
 ---
 ### Github Daily Streak:
 
-[GitHub Streak](https://streak-stats.demolab.com?user=AchiMahadani&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AchiMahadani&theme=dark&hide_border=true)
 
 
 
