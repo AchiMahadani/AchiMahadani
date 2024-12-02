@@ -71,15 +71,12 @@
 
 ---
 ### 📊 GitHub Stats:
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=achimahadani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <!-- Daily Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=radical" alt="GitHub Daily Streak" />
 </p>
+
 
 
 ---
