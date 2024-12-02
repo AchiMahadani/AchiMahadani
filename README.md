@@ -70,12 +70,14 @@
 </p>
 
 ---
-### 📊 GitHub Stats:
+
+### 📊 GitHub Daily Streak:
 
 <p align="center">
   <!-- Daily Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=radical" alt="GitHub Daily Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=radical&border_radius=5" alt="GitHub Daily Streak" />
 </p>
+
 
 
 
