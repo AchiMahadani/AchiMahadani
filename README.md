@@ -14,12 +14,6 @@
 
 ---
 
-### 💡 What Drives Me:
-- 🚀 Transforming raw data into actionable insights using advanced analytics and machine learning.  
-- 🎯 Developing scalable, data-centric solutions to address real-world challenges.  
-- 🌐 Staying ahead in the evolving tech landscape by exploring emerging tools and frameworks.  
-
----
 
 ### 🌐 Connect with Me:
 <p align="left">
