@@ -76,7 +76,7 @@
 
 
 <p>
-  ![Achinta Mahadani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=dark)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=dark" alt="achimahadani" />
 </p>
 
 
