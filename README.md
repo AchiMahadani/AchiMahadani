@@ -74,8 +74,7 @@
 
 ---
 <p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=achimahadani&theme=dark)](https://git.io/streak-stats)
-
+(https://github-readme-streak-stats.herokuapp.com?user=achimahadani&theme=dark)](https://git.io/streak-stats)
 </p>
 
 
