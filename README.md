@@ -76,9 +76,7 @@
 
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=dark" alt="achimahadani" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achimahadani&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 
