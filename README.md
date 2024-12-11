@@ -73,10 +73,11 @@
 </p>
 
 ---
+<p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=achimahadani&theme=dark)](https://git.io/streak-stats)
 
-<p
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achimahadani&theme=dark)
 </p>
+
 
 
 ---
