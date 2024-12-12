@@ -74,10 +74,12 @@
 
 ---
 
-
 <p>
-  [(https://streak-stats.demolab.com?user=achimahadani&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=achimahadani&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 
