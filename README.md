@@ -72,12 +72,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&show_icons=true&locale=en&layout=compact" alt="achimahadani" />
 </p>
 
----
+
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achimahadani&theme=dark" alt="achimahadani" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AchiMahadani)](https://git.io/streak-stats)
 </p>
 
 
----
+
 
 ### ✨ Let's Transform Data into Decisions!
