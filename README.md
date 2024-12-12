@@ -72,9 +72,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achimahadani&show_icons=true&locale=en&layout=compact" alt="achimahadani" />
 </p>
 
+---
+
 
 <p>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AchiMahadani)](https://git.io/streak-stats)
+ [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=achimahadani)](https://git.io/streak-stats)
 </p>
 
 
