@@ -76,7 +76,7 @@
 
 
 <p>
- [[GitHub Streak](https://git-hub-streak-stats.vercel.app?user=achimahadani)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=achimahadani)](https://git.io/streak-stats)
 </p>
 
 
