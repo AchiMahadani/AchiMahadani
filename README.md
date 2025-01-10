@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me:
-- 🌱 Currently diving deep into **Data Science** and **Machine Learning**.  
+- 🌱 Currently diving deep into **Data Science** ,**Data Analytics** and **Machine Learning**.  
 - 👨‍💻 Passionate about solving complex problems, analyzing data, and creating **AI-driven solutions**.  
 - 📫 Reach me at: **mahadaniachinta12@gmail.com**.  
 
